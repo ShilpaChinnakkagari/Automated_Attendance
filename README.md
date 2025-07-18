@@ -1,3 +1,30 @@
+#Admin Portal
+![WhatsApp Image 2025-07-18 at 22 04 37_a87bf4f4](https://github.com/user-attachments/assets/a84fcbd0-d26b-46aa-936c-5f37a3e5d667)
+![WhatsApp Image 2025-07-18 at 22 04 36_c7cccbd5](https://github.com/user-attachments/assets/325a7af3-87c0-4eb3-8517-73a34a64f6ee)
+![WhatsApp Image 2025-07-18 at 22 04 36_aabbf8e8](https://github.com/user-attachments/assets/ca84814c-1734-49b8-91c0-a7ded661fccb)
+![WhatsApp Image 2025-07-18 at 22 04 57_7886deb6](https://github.com/user-attachments/assets/dfc8393f-f09e-4c80-b66d-afb601ac6006)
+![WhatsApp Image 2025-07-18 at 22 04 58_6e43f919](https://github.com/user-attachments/assets/a4279614-23a0-4d78-a543-28b163b4e33f)
+![WhatsApp Image 2025-07-18 at 22 04 57_6f85650a](https://github.com/user-attachments/assets/da906793-ac61-41c2-9d5b-f7df48eb26ac)
+![WhatsApp Image 2025-07-18 at 22 04 58_14502333](https://github.com/user-attachments/assets/7cb941dc-7bb3-4fd3-b1fa-e53bfd9866b5)
+![WhatsApp Image 2025-07-18 at 22 04 57_941f6913](https://github.com/user-attachments/assets/b1263064-3e4a-4596-bbe3-2c95dfdb4a5f)
+![WhatsApp Image 2025-07-18 at 22 04 58_f0cca8ff](https://github.com/user-attachments/assets/750ff0c4-094e-4e20-893f-0b21cddd052f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Student Portal
 
 ![WhatsApp Image 2025-07-18 at 21 49 29_52e744aa](https://github.com/user-attachments/assets/6af939c1-1167-4c5c-9d4c-97b1697ac602)
