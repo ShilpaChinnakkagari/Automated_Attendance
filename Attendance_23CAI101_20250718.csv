@@ -1,0 +1,16 @@
+Attendance Report
+Course: Machine Learning (23CAI101)
+"Year: 3, Semester: 2"
+Department: CAI
+Faculty: Shilpa
+Date: 2025-07-18
+
+Total Students: 4
+Present: 0 (0.0%)
+Absent: 4 (100.0%)
+
+Student ID,Name,Department,Year,Section,Time,Status
+1,Rashmika,,3,C,,PM
+2,Dhanush,,3,C,,P
+4,Jim Sarbh,,3,C,,P
+3,Nagarjuna,,3,C,,A
