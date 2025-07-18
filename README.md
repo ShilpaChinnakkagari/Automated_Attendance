@@ -19,6 +19,15 @@
 ![WhatsApp Image 2025-07-18 at 22 04 56_de96ab94](https://github.com/user-attachments/assets/82b7b814-aa65-4331-bfcf-a8e5e6aca9af)
 
 
+#Faculty Portal
+![WhatsApp Image 2025-07-18 at 22 22 26_d7c6438b](https://github.com/user-attachments/assets/cf87fea3-4f6e-47fb-9c05-6900ca68759d)
+![WhatsApp Image 2025-07-18 at 22 22 26_dc6bc6db](https://github.com/user-attachments/assets/b391e743-9d49-4a22-a8b0-48ca6603c4df)
+![WhatsApp Image 2025-07-18 at 22 22 27_ca93948f](https://github.com/user-attachments/assets/e7ec0fee-706d-41a9-9fcf-f5ff55cc0232)
+![WhatsApp Image 2025-07-18 at 22 22 26_ce88a8ac](https://github.com/user-attachments/assets/2b7bdb79-f287-433e-8bec-2fddc50a9f19)
+![WhatsApp Image 2025-07-18 at 22 22 26_6502b204](https://github.com/user-attachments/assets/05f68e2e-5b0a-4d8a-8f5b-9de81d0e3e36)
+
+
+
 
 
 
